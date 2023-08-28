@@ -1,0 +1,14 @@
+/Users/andresfel/Taller C#/bin/Debug/net7.0/Taller C#
+/Users/andresfel/Taller C#/bin/Debug/net7.0/Taller C#.deps.json
+/Users/andresfel/Taller C#/bin/Debug/net7.0/Taller C#.runtimeconfig.json
+/Users/andresfel/Taller C#/bin/Debug/net7.0/Taller C#.dll
+/Users/andresfel/Taller C#/bin/Debug/net7.0/Taller C#.pdb
+/Users/andresfel/Taller C#/obj/Debug/net7.0/Taller C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andresfel/Taller C#/obj/Debug/net7.0/Taller C#.AssemblyInfoInputs.cache
+/Users/andresfel/Taller C#/obj/Debug/net7.0/Taller C#.AssemblyInfo.cs
+/Users/andresfel/Taller C#/obj/Debug/net7.0/Taller C#.csproj.CoreCompileInputs.cache
+/Users/andresfel/Taller C#/obj/Debug/net7.0/Taller C#.dll
+/Users/andresfel/Taller C#/obj/Debug/net7.0/refint/Taller C#.dll
+/Users/andresfel/Taller C#/obj/Debug/net7.0/Taller C#.pdb
+/Users/andresfel/Taller C#/obj/Debug/net7.0/Taller C#.genruntimeconfig.cache
+/Users/andresfel/Taller C#/obj/Debug/net7.0/ref/Taller C#.dll
